@@ -1,0 +1,8 @@
+-----------------------------------------------------
+
+ANCLA
+
+<a href="url"></a>
+
+CON ESTA ETIQUETA PODEMOS DIRIGIRNOS HACIA OTRO ARCHIVO
+-----------------------------------------------------
